@@ -46,3 +46,4 @@ Slackコミュニティへの参加登録は[こちら](https://goo.gl/forms/ODg
 
 * ### [サーバ開発者向けガイド](./software-developer/README.md)
   * PersoniumのOSSの機能を開発したい人、OSSにコミットしたい人向けのドキュメントです
+

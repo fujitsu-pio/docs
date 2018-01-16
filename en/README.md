@@ -53,3 +53,4 @@ Register to join the Slack community [here](https://goo.gl/forms/ODgVX6eMkRDtReL
 <li><h3 id="server-developers-guide"><a href="./software-developer/README.md">Server Developer's Guide</a></h3></li>
 <li><p>It is a document for people who want to develop Personium's OSS function or who want to commit to OSS</p></li>
 </ul>
+
