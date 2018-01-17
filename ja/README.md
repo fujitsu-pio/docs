@@ -22,28 +22,28 @@ Slackコミュニティへの参加登録は[こちら](https://goo.gl/forms/ODg
 
 # ユーザーガイド  
 ## アプリ開発者向けガイド  
-### [アプリ開発者向けガイド](./app-developer/README.md)
+### [アプリ開発者向けガイド](./app-developer/)
   PersoniumのAPIを使用して、PDSアプリを開発したい人向けのドキュメントです
 
-### [Cell管理クライアント開発者向けガイド](./cell-client-developer/README.md)
+### [Cell管理クライアント開発者向けガイド](./cell-client-developer/)
   PersoniumのCellを管理するアプリを開発したい人向けのドキュメントです
 
 ## Personium 運用者向けガイド
-### [ユニット管理者向けガイド](./unit-administrator/README.md)
+### [ユニット管理者向けガイド](./unit-administrator/)
   Personiumを使用したPDSサービスを提供するため、構築済みのPersoniumユニットを管理したい人、PDSアプリをユーザーに利用してもらいたい人向けのドキュメントです
 
-### [サーバソフトウェア運用者向けガイド](./server-operator/README.md)
+### [サーバソフトウェア運用者向けガイド](./server-operator/)
   Personiumを使用したPDSサービス環境を、提供・運用したい人向けのドキュメントです
 
 # コントリビュータガイド  
 ## ドキュメントコントリビュータ  
-### [ドキュメント整備への参加方法](./document-writer/README.md)  
+### [ドキュメント整備への参加方法](./document-writer/)  
   Personiumプロジェクトでは、当ドキュメントに貢献してくださる方も募集中です
 
 ## コードコントリビュータ  
-### [サーバプラグイン開発者向けガイド](./plugin-developer/README.md)
+### [サーバプラグイン開発者向けガイド](./plugin-developer/)
   Personiumのサーバ機能を拡張するために、プラグインを開発して利用したい人向けのドキュメントです
 
-### [サーバ開発者向けガイド](./software-developer/README.md)
+### [サーバ開発者向けガイド](./software-developer/)
   PersoniumのOSSの機能を開発したい人、OSSにコミットしたい人向けのドキュメントです
 
