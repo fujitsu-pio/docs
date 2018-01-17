@@ -9,6 +9,8 @@ Personiumを使用したPDSサービス環境を、提供・運用したい人�
 ### [Unitの設定一覧](./unit_config_list.md)
 
 ### 関連するリポジトリ
-* [ansible](https://github.com/personium/ansible)
-* [openstack-heat](https://github.com/personium/openstack-heat)
-* [openstack-heat_cent6_8](https://github.com/personium/openstack-heat_cent6_8)
+[ansible](https://github.com/personium/ansible)
+
+[openstack-heat](https://github.com/personium/openstack-heat)
+
+[openstack-heat_cent6_8](https://github.com/personium/openstack-heat_cent6_8)

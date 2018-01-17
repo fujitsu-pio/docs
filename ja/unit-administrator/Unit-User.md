@@ -52,7 +52,8 @@ X-Personium-Unit-Userヘッダに任意の文字列を指定することで、�
 
 * {UnitURL}/{UnitUserName} というユニットユーザ名をオーナーとするセル作成
 
-* ```sh
+* 
+```sh
 curl "{UnitURL}/__ctl/Cell" -X POST \
 -H "Authorization: Bearer token" \
 -H "X-Personium-Unit-User: {UnitURL}/{UnitUserName}" \
@@ -61,7 +62,8 @@ curl "{UnitURL}/__ctl/Cell" -X POST \
 
 * {UnitURL}/{UnitUserName} というユニットユーザ名をオーナーとするセル一覧を取得
 
-* ```sh
+* 
+```sh
 curl "{UnitURL}/__ctl/Cell" -X GET \
 -H "Authorization: Bearer token" \
 -H "X-Personium-Unit-User: {UnitURL}/{UnitUserName}"
@@ -89,7 +91,8 @@ curl "{UnitURL}/__ctl/Cell" -X GET \
 * セルでUUTを発行する場合
 * personium-unit-config.propertiesの`io.personium.core.unitUser.issuers={UnitURL}/{Cell}/`を設定
 
-* ```sh
+* 
+```sh
 curl "{UnitURL}/{Cell}/__token" -X GET \
 -d 'grant_type=password&username=user&password=pass&p_target={UnitURL}/'
 ```
