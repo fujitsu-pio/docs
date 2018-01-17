@@ -23,27 +23,27 @@ Register to join the Slack community [here](https://goo.gl/forms/ODgVX6eMkRDtReL
 # User Guides  
 ## App Developer's Guides  
 ### [App Developer's Guide](./app-developer/)
-  It is a document for people who want to develop PDS applications using Personium's API
+It is a document for people who want to develop PDS applications using Personium's API
 
 ### [Cell Management Client Developer's Guide](./cell-client-developer/)
-  It is a document for people who want to develop an application that manages Personium's Cell
+It is a document for people who want to develop an application that manages Personium's Cell
 
 ## Personium Operator's Guides  
 ### [Unit Administrator's Guide](./unit-administrator/)
-  It is a document for people who want to manage pre-built Personium units and those who want users to use PDS applications to provide PDS service using Personium
+It is a document for people who want to manage pre-built Personium units and those who want users to use PDS applications to provide PDS service using Personium
 
 ### [Server Software Operator's Guide](./server-operator/)
-  It is a document for people who want to provide / operate PDS service environment using Personium
+It is a document for people who want to provide / operate PDS service environment using Personium
 
 # Contributor Guides  
 ## Document Contribution  
 ### [Documentation Contributor's Guide](./document-writer/)  
-  Personium Project is looking for documentation contributors
+Personium Project is looking for documentation contributors
 
 ## Code Contribution  
 ### [Server Plugin Developer's Guide](./plugin-developer/)
-  It is a document for people who want to develop and use plugins to extend Personium's server function
+It is a document for people who want to develop and use plugins to extend Personium's server function
 
 ### [Server Developer's Guide](./software-developer/)
-  It is a document for people who want to develop Personium's OSS function or who want to commit to OSS
+It is a document for people who want to develop Personium's OSS function or who want to commit to OSS
 

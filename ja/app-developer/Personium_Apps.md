@@ -8,7 +8,7 @@ Personiumのインターフェースは基本的にREST APIのみでありGUIを
 
 ただし、Personiumアプリにおいて注意すべきことは、Openなエコシステムとして多くのプレーヤーにアプリ開発を参入してもらうことを想定し、ある程度の規約が存在することである。（その点についてはWebにおける各種プロトコルや、AndroidなどのMobile OSと同様である）  
 
-![Diagram](https://github.com/personium/Hands-on-Demo/blob/master/doc/app_overview.png)  
+![Diagram](https://raw.githubusercontent.com/personium/Hands-on-Demo/master/doc/app_overview.png)  
 
 ### 挙動イメージ  
 [YouTube動画](https://www.youtube.com/watch?v=qlq0xM5TGiw&index=3&list=PLZDdjLhDam_SvjUZ5hN7I70KubzMEy3AX)  
