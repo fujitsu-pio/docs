@@ -72,7 +72,7 @@ curl "{UnitURL}/__ ctl/Cell" - X GET \
 UUT is a Bearer token of OAuth 2 based on the SAML Assertion with the following information.
 
 | Element/attribute name | Contents |
-|: - |: - |
+|:--|:--|
 | IssueInstant | Authentication time |
 | issuer | URL admitted by the unit. <br> describe arbitrary URLs allowed in "io.personium.core.unitUser.issuers =" in personium-unit-config.properties |
 | Subject \ NameID | unit user name. Any string. |
