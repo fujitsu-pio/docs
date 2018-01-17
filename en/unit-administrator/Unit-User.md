@@ -8,9 +8,9 @@ UUT plays a big role when providing Personium as a service, but Personium can op
 The biggest motivation for service providers to use UUT is to manage billing destinations of cells at once. <br>
 That is, by having the service provider issue a different UUT to each customer himself and using this to access the cell CRUD API, the following is realized.
 
-When creating a cell, a cell is created with information that it is owned.
-- When searching for a cell, it is not searched except for the cell it created.
-When deleting a cell, deletion other than the cell created by itself fails.
+     When creating a cell, a cell is created with information that it is owned.
+     When searching for a cell, it is not searched except for the cell it created.
+     When deleting a cell, deletion other than the cell created by itself fails.
 
 On the other hand, if an individual or organization has its own dedicated unit, all the cells created in that unit will be managed by himself, so the above function is unnecessary. <br>
 In that case, you can use UMT instead of UUT for operation.
