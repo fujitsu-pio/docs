@@ -8,6 +8,8 @@ It is a document for people who want to provide / operate PDS service environmen
 
 ### [Unit configurations](./unit_config_list.md)  
 
+### [How to set coordination between units](./unit_coordination.md)  
+
 ### Related Repositories
 [ansible](https://github.com/personium/ansible)
 

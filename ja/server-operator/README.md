@@ -8,6 +8,8 @@ Personiumを使用したPDSサービス環境を、提供・運用したい人�
 
 ### [Unitの設定一覧](./unit_config_list.md)
 
+### [Unit間連携の設定方法](./unit_coordination.md)
+
 ### 関連するリポジトリ
 [ansible](https://github.com/personium/ansible)
 
