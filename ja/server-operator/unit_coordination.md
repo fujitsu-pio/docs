@@ -43,8 +43,7 @@ Personiumは別々のサーバインフラに⽴てられたに立てられた�
 ```console
     # openssl genrsa -out unit.key 2048 -outform DER
 ```  
-
-__Example:)__
+Example:)
 
 ```console
     # openssl genrsa -out unit.key 2048 -outform DER
@@ -62,7 +61,7 @@ Confirm that the unit.key is created
     # ls -l
 ```
 
-__Example:)__
+Example:)
 
 ```console
     # ls
@@ -82,8 +81,7 @@ CSR作成時に、CN項目にユニットを運用しようとしているFQDN�
       * Common Name value should be the unit domain name (required)
 ```
 
-__Example:)__
-
+Example:)
 
 ```console
     # openssl req -new -key unit.key -out unit.csr

@@ -42,7 +42,7 @@ Here is the procedure for creating a secret key using openssl.
      # openssl genrsa - out unit.key 2048 - outform DER
 ```
 
-** Example:) **
+Example:)
 
 ```console
      # openssl genrsa - out unit.key 2048 - outform DER
@@ -60,7 +60,7 @@ Confirm that the unit.key is created
     # ls -l
 ```
 
-**Example:)**
+Example:)
 
 ```console
     # ls
@@ -78,7 +78,7 @@ When creating CSR, please set the FQDN to be used for the CN item.
       * Common Name value should be the unit domain name (required)
 ```
 
-**Example:)**
+Example:)
 
 
 ```console
